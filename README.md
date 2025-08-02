@@ -41,6 +41,15 @@ Me chamo Marcos Paulo, tenho 17 anos e sou do estado de Pernambuco. Estou cursan
 />
 
 <img
+     align="left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+
+
+<img
   align="left" 
     alt="Postman"
     title="Postman" 
