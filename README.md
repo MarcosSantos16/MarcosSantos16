@@ -1,6 +1,6 @@
 #👨🏽‍💻 Marcos Paulo
 
-**`Desenvolvedor Back-and`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Marcos Paulo, tenho 17 anos e sou do estado de Pernambuco. Estou cursando o ensino médio e o curso tecnico de Análise e Desenvolvimento de Sistemas no Senai PE
 
