@@ -2,7 +2,15 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Marcos Paulo, tenho 18 anos e sou do estado de Pernambuco. Estou cursando o ensino médio e o curso tecnico de Análise e Desenvolvimento de Sistemas no Senai PE
+Meu nome é Marcos Paulo, tenho 18 anos e sou técnico em Análise e Desenvolvimento de Sistemas pelo Senai-PE. Atualmente, curso Engenharia de Software na Unifbv-Wyden.
+Minha paixão pela área de tecnologia surgiu a partir da curiosidade em explorar o notebook e me questionar constantemente: “como isso funciona?”, “como fizeram isso?”. Essas dúvidas despertaram em mim o desejo de aprender e construir soluções inovadoras.
+
+No ambiente de trabalho, destaco algumas competências que considero fundamentais:
+- Comunicação em grupo: facilidade para colaborar e compartilhar ideias.
+- Resolução de problemas: gosto de ajudar colegas e encontrar soluções criativas para desafios técnicos.
+- Proatividade: busco constantemente novos desafios e metas para impulsionar meu desenvolvimento profissional e ampliar meu conhecimento.
+
+Atualmente estou estudando na area de back-end, as tecnologias que eu mais gosto de trabalhar e tenho mais experiencias sao: Javascript,Node.js, react,HTml, css, Mysql, MySql server,git e github.
 
 ### 🤖 Linguagens e Tecnologias
 
