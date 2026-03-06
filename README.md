@@ -88,13 +88,4 @@ Me chamo Marcos Paulo, tenho 18 anos e sou do estado de Pernambuco. Estou cursan
 <br/>
 <br/>
 
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSantos16&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
