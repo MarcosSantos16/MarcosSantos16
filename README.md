@@ -39,15 +39,6 @@ Atualmente estou estudando na area de back-end, as tecnologias que eu mais gosto
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
 <img
      align="left" 
     alt="Node.js"
@@ -56,22 +47,6 @@ Atualmente estou estudando na area de back-end, as tecnologias que eu mais gosto
     style="padding-right: 10;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 
-
-<img
-  align="left" 
-    alt="Postman"
-    title="Postman" 
-    width="30px" 
-    style="padding-right: 10;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-
-<img 
-  align="left" 
-    alt="csharp"
-    title="csharp" 
-    width="30px" 
-    style="padding-right: 10;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
 <img 
    align="left" 
